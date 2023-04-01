@@ -14,7 +14,7 @@
 > 
 > Môn học: Lập trình ứng dụng Java - 21_6
 >
->Giảng viên hướng dẫn: Thầy Nguyễn Lê Hoàng Dũng
+>Giảng viên hướng dẫn: Thầy Nguyễn Lê Hoàng Dũng & thầy Nguyễn Văn Khiết
 >
 > Trường Đại học Khoa học Tự nhiên - Đại học Quốc gia TP.HCM
 
@@ -76,11 +76,3 @@
 <p align="center">
  <b>-Hết-</b> 
 </p>
-
-
-    
-
-
-
-
-

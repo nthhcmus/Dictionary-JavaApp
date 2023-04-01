@@ -1,0 +1,44 @@
+remove
+eng
+jack
+-end word-
+remove
+eng
+fuck
+-end word-
+remove
+vie
+viện cớ
+-end word-
+remove
+vie
+may mắn
+-end word-
+add
+vie
+may mắn
+@may mắn
+* adj
+- lucky, fortunate
+-end word-
+add
+eng
+Nguyen Trong Hieu
+- Student
+- 21120068
+- HCMUS
+-end word-
+add
+vie
+Trần Thái Tân
+- Bạn cùng phòng
+-end word-
+add
+vie
+Phú Thọ
+- Một tỉnh ở phía Bắc Việt Nam
+-end word-
+remove
+vie
+ma cà bông
+-end word-

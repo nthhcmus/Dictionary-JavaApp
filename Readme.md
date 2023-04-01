@@ -63,7 +63,7 @@
     - Nếu từ không có trong từ điển sẽ hiện ra thông báo: *"NOT FOUND word in dictionary!"*
     - Nếu từ có trong từ điển, tương ứng với ngôn ngữ tra cứu từ hiện tại sẽ thêm vào danh sách **Vie Words** hay **Eng Word** trong tab **Favorites**
     - Trong tab **Favorites** cũng có thể chọn **A-Z** hay **Z-A** để sắp xếp danh sách Favorites từ A đến Z hoặc ngược lại
-
+ - Có thể nhấn vào một từ trong danh sách **Favorites**, lúc này từ được chọn sẽ hiện trên ô **Word**, lúc đó có thể bấm **Search** để tra lại nghĩa của từ (nếu cần)
 ### **7. Do Statistic (Thống kê)**
 - Nhập ngày thống kê bắt đầu, kết thúc ở ô ***From*** , ***to*** tương ứng
     - Yêu cầu ngày nhập vào phải theo format dd/mm/yyyy. Ví dụ: 28/06/2023
@@ -71,8 +71,11 @@
 - Sau khi nhập ngày, nhấn **Do Statistic** để thống kê
     - Nếu ngày nhập vào không hợp lệ sẽ hiện ra hộp thoại thông báo: *"Wrong format! Pls enter the correct format: dd/mm/yyyy!"*
     - Nếu ngày nhập vào đúng format, sẽ tiến hành thống kê vào trong bảng thống kê. Với **Words** là các từ đã tra, **Count** là số lần tra một từ.
+- Có thể nhấn vào một từ trong danh sách **Statistic**, lúc này từ được chọn sẽ hiện trên ô **Word**, lúc đó có thể bấm **Search** để tra lại nghĩa của từ (nếu cần)
 
-# **<p style="text-align:center"> -Hết- </p>**
+<p align="center">
+ <b>-Hết-</b> 
+</p>
 
 
     

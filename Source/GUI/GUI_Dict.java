@@ -1,3 +1,9 @@
+/*
+    Dev by:         Salmon(Nguyen Trong Hieu)
+    Release date:   01/04/2023
+    GitHub project: https://github.com/nthhcmus/Dictionary-Java
+*/
+
 package GUI;
 
 import dict.Dict;

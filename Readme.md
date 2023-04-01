@@ -27,7 +27,7 @@
 >
 ## **I. Cách để chạy chương trình**
 - Double click vào file **Dictionary.jar** trong thư mục **Release**
-- Biên dịch lại và chạy chương trình bằng các files trong thư mục **Source**
+- Hoặc biên dịch lại và chạy chương trình bằng các files trong thư mục **Source**
 ## **II. Hướng dẫn sử dụng** 
 #### *(Hướng dẫn sử dụng sau đây sử dụng ngôn ngữ giao diện chương trình là tiếng Anh)*
 ### **1. Setting (Cài đặt) và About**

@@ -21,8 +21,6 @@
 > ***Thông tin liên hệ:***
 > 
 > Email: hieunt.wk@gmail.com
-> 
-> Số điện thoại: 0971530104
 >
 > Facebook:  [Nguyen Trong Hieu](https://www.facebook.com/profile.hieunguyen)
 

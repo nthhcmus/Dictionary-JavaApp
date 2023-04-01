@@ -35,8 +35,8 @@
 - Cùng trên thanh menu bar đó, chọn **About** để hiển thị thông tin chương trình
 
 ### **2. Change (Đổi ngôn ngữ tra cứu)**
-- Ngôn ngữ đang dùng để tra cứu sẽ hiện lên ở nhãn *Look-up language* tương ứng với ngôn ngữ là English hay Tiếng Việt sẽ chọn từ điển Anh-Viet, Viet-Anh để tra từ 
-- Nhấn vào Change để thay đổi ngôn ngữ từ English -> tiếng Việt và ngược lại
+- Ngôn ngữ đang dùng để tra cứu sẽ hiện lên ở nhãn ***Look-up language*** tương ứng với ngôn ngữ là English hay Tiếng Việt sẽ chọn từ điển Anh-Viet, Viet-Anh để tra từ 
+- Nhấn vào **Change** để thay đổi ngôn ngữ từ English -> tiếng Việt và ngược lại
 
 ### **3. Search (Tìm từ)**
 - Đánh từ vào ô **Word** (Lúc đánh từ sẽ hiện ra gợi ý ở trong phần **Suggest** với các từ gợi ý là các từ có các chữ cái bắt đầu bằng các chữ đã được đánh vào ô **Word**)
@@ -64,7 +64,7 @@
  - Có thể nhấn vào một từ trong danh sách **Favorites**, lúc này từ được chọn sẽ hiện trên ô **Word**, lúc đó có thể bấm **Search** để tra lại nghĩa của từ (nếu cần)
 ### **7. Do Statistic (Thống kê)**
 - Nhập ngày thống kê bắt đầu, kết thúc ở ô ***From*** , ***to*** tương ứng
-    - Yêu cầu ngày nhập vào phải theo format dd/mm/yyyy. Ví dụ: 28/06/2023
+    - Yêu cầu ngày nhập vào phải theo format dd/mm/yyyy. Ví dụ: 01/04/2023
     - Ngày mặc định trong from và to của chương trình là ngày hiện tại theo thời gian ở Ho_Chi_Minh (Vietnam)
 - Sau khi nhập ngày, nhấn **Do Statistic** để thống kê
     - Nếu ngày nhập vào không hợp lệ sẽ hiện ra hộp thoại thông báo: *"Wrong format! Pls enter the correct format: dd/mm/yyyy!"*
@@ -72,5 +72,5 @@
 - Có thể nhấn vào một từ trong danh sách **Statistic**, lúc này từ được chọn sẽ hiện trên ô **Word**, lúc đó có thể bấm **Search** để tra lại nghĩa của từ (nếu cần)
 
 <p align="center">
- <b>-Hết-</b> 
+ <b><i>-Hết-</i></b> 
 </p>
